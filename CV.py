@@ -32,5 +32,3 @@ print('ROC: %.3f (%.3f)' % (mean(scores2), std(scores2)))
 print('Precision: %.3f (%.3f)' % (mean(scores3), std(scores3)))
 print('Recall: %.3f (%.3f)' % (mean(scores4), std(scores4)))
 print('F1: %.3f (%.3f)' % (mean(scores5), std(scores5)))
-
-y
